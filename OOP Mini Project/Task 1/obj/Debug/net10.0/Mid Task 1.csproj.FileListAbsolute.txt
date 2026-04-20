@@ -1,0 +1,14 @@
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mid Task 1\bin\Debug\net10.0\Mid Task 1.exe
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mid Task 1\bin\Debug\net10.0\Mid Task 1.deps.json
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mid Task 1\bin\Debug\net10.0\Mid Task 1.runtimeconfig.json
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mid Task 1\bin\Debug\net10.0\Mid Task 1.dll
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mid Task 1\bin\Debug\net10.0\Mid Task 1.pdb
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mid Task 1\obj\Debug\net10.0\Mid Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mid Task 1\obj\Debug\net10.0\Mid Task 1.AssemblyInfoInputs.cache
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mid Task 1\obj\Debug\net10.0\Mid Task 1.AssemblyInfo.cs
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mid Task 1\obj\Debug\net10.0\Mid Task 1.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mid Task 1\obj\Debug\net10.0\Mid Task 1.dll
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mid Task 1\obj\Debug\net10.0\refint\Mid Task 1.dll
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mid Task 1\obj\Debug\net10.0\Mid Task 1.pdb
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mid Task 1\obj\Debug\net10.0\Mid Task 1.genruntimeconfig.cache
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mid Task 1\obj\Debug\net10.0\ref\Mid Task 1.dll

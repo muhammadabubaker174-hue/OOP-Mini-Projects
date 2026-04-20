@@ -1,0 +1,14 @@
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mids Task 3\obj\Debug\net10.0\Mids Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mids Task 3\obj\Debug\net10.0\Mids Task 3.AssemblyInfoInputs.cache
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mids Task 3\obj\Debug\net10.0\Mids Task 3.AssemblyInfo.cs
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mids Task 3\obj\Debug\net10.0\Mids Task 3.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mids Task 3\bin\Debug\net10.0\Mids Task 3.exe
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mids Task 3\bin\Debug\net10.0\Mids Task 3.deps.json
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mids Task 3\bin\Debug\net10.0\Mids Task 3.runtimeconfig.json
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mids Task 3\bin\Debug\net10.0\Mids Task 3.dll
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mids Task 3\bin\Debug\net10.0\Mids Task 3.pdb
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mids Task 3\obj\Debug\net10.0\Mids Task 3.dll
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mids Task 3\obj\Debug\net10.0\refint\Mids Task 3.dll
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mids Task 3\obj\Debug\net10.0\Mids Task 3.pdb
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mids Task 3\obj\Debug\net10.0\Mids Task 3.genruntimeconfig.cache
+C:\Users\muham\Desktop\BS SE (2)\OOP Lab\Mid Term Tasks\Mids Task 3\obj\Debug\net10.0\ref\Mids Task 3.dll
